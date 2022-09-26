@@ -45,7 +45,7 @@ CLASSES
 ~~~
 
 > ## ***Examples***
-> ### .liveFeed
+> ### .liveFeed [[plot](https://github.com/rupamkolhe/live-feed-plot-using-matplotlib/plots/liveFeed.png)]
 ~~~ python
 import matplotlib.pyplot as plt
 import live_feed_plot as livePlot
