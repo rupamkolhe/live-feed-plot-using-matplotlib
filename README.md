@@ -45,7 +45,7 @@ CLASSES
 ~~~
 
 > ## ***Examples***
-> ### .liveFeed [[plot](https://github.com/rupamkolhe/live-feed-plot-using-matplotlib/plots/liveFeed.png)]
+> ### .liveFeed [[plot](plots/liveFeed.png)]
 ~~~ python
 import matplotlib.pyplot as plt
 import live_feed_plot as livePlot
@@ -64,7 +64,7 @@ stream.close()
 plt.show()
 ~~~
 
-> ### .makeFeed_XY
+> ### .makeFeed_XY [[plot](plots/makeFeed_XY.png)]
 ~~~ python
 import matplotlib.pyplot as plt
 import live_feed_plot as livePlot
@@ -81,7 +81,7 @@ stream.close()
 plt.show()
 ~~~
 
-> ### .makeFeed_DFC
+> ### .makeFeed_DFC [[plot](plots/makeFeed_DFC.png)]
 ~~~ python
 import matplotlib.pyplot as plt
 import live_feed_plot as livePlot
@@ -97,7 +97,7 @@ stream.close()
 plt.show()
 ~~~
 
-> ### .makeMultiFeed_XY
+> ### .makeMultiFeed_XY [[plot](plots/makeMultiFeed_XY.png)]
 ~~~python
 import matplotlib.pyplot as plt
 import live_feed_plot as livePlot
